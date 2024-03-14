@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710434941 source:c:\users\local\documents\github\ps-powt\lab4\wsj2\main.c
+	<stdio.h>
+	<stdlib.h>
+
