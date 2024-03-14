@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710432901 source:c:\users\local\documents\github\ps-powt\lab4\petle9\main.c
+	<stdio.h>
+	<stdlib.h>
+
