@@ -13,7 +13,7 @@ int countNums(char str[]){
 
 int main()
 {
-    char t1[] = "ashshdghe3\000234ds";
+    char t1[] = "ashshdghe3234ds";
     printf("%s\n", t1);
     printf("%d\n", countNums(t1));
     return 0;
