@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712246850 source:c:\users\local\documents\github\ps-powt\lab7\napisy2\main.c
+	<stdio.h>
+	<stdlib.h>
+
