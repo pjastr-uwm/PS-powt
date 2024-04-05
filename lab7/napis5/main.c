@@ -12,7 +12,7 @@ int lexComp(char txt1[], char txt2[]){
         }
     }
     if (txt1[i] == 0 && txt2[i] == 0)
-        return 1;
+        return 0;
     if (txt1[i] == 0)
         return 1;
     return 0;
