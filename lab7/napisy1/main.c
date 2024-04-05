@@ -66,7 +66,7 @@ int lengthRec(char *str){
 int lengthRec2(char *str){
     if (*str == 0)
         return 0;
-    return 1+lengthRec(str+1);
+    return 1+lengthRec2(str+1);
 }
 
 
