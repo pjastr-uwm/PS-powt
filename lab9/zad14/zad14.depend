@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713458083 source:c:\users\local\documents\github\ps-powt\lab9\zad14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+
