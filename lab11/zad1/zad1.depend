@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715873738 source:c:\users\local\documents\github\ps-powt\lab11\zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
